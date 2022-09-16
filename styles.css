@@ -61,7 +61,6 @@ body{
 .btn{
     cursor: pointer;
     display: inline-block;
-    border: 0;
     font-weight: normal;
     padding: 10px 60px;
     background: #212121;
