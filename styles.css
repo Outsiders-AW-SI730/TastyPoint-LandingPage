@@ -541,3 +541,17 @@ input[type="submit"]:hover{
     padding:2.5rem 1rem;
     text-align: center;
 }
+
+@media only screen and (max-width: 766px){
+        #bannc-1{
+            display: none;
+        }
+        #bannc-2{
+            display: none;
+        }
+        #btn-ban1{
+            display: flex;
+            justify-content: center;
+            align-content: center;
+        }
+    }
