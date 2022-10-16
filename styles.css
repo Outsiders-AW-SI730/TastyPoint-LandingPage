@@ -429,6 +429,7 @@ body{
     padding:2.5rem 1rem;
     text-align: center;
 }
+
 @media screen and (max-width:800px){
     .gridBar{
         grid-template-columns: 1fr 1fr;
@@ -492,5 +493,4 @@ body{
 @media screen and (max-width:400px){
 
 }
-
 
