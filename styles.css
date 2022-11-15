@@ -24,7 +24,7 @@ body{
     grid-template-columns: 1fr 1fr;
 }
 .grid1{
-    margin: 10%;
+    margin: 8%;
     justify-self: center;
     width: 60%;
 }
